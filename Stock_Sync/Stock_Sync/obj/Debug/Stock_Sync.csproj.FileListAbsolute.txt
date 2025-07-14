@@ -1,0 +1,16 @@
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\bin\Debug\Stock_Sync.exe.config
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\bin\Debug\Stock_Sync.exe
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\bin\Debug\Stock_Sync.pdb
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.csproj.AssemblyReference.cache
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.Properties.Resources.resources
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.csproj.GenerateResource.cache
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.csproj.CoreCompileInputs.cache
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.exe
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.pdb
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.LoginForm.resources
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.ProductsForm.resources
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.StockForm.resources
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.BillForm.resources
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.ChartsFormcs.resources
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.ReportForm.resources
+C:\ABDUL REHMAN\2-sem Project\Stock_Sync\Stock_Sync\obj\Debug\Stock_Sync.NotificationForm.resources
